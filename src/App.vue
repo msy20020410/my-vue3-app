@@ -11,6 +11,7 @@ import MyComponent02 from './components/MyComponet02.vue'
 
   <!-- reactive的使用 -->
   <MyComponent02 />
+  <!-- 测试代码推送 -->
 
 </template>
 
