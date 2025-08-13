@@ -6,6 +6,8 @@ import MyComponent03 from './components/MyComponent03.vue'
 import MyComponent04 from './components/MyComponent04.vue'
 import MyComponent05 from './components/MyComponent05.vue'
 import MyComponent06 from './components/MyComponent06.vue'
+import MyComponent07 from './components/MyComponent07.vue'
+import MyComponent08 from './components/MyComponent08.vue'
 
 </script>
 
@@ -26,7 +28,13 @@ import MyComponent06 from './components/MyComponent06.vue'
   <!-- <MyComponent05 /> -->
 
   <!-- 6.测试事件处理 -->
-  <MyComponent06 />
+  <!-- <MyComponent06 /> -->
+
+  <!-- 7.表单输入 -->
+  <!-- <MyComponent07 /> -->
+
+  <!-- 8.侦听器 -->
+  <MyComponent08 />
 
 </template>
 
