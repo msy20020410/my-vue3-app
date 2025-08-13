@@ -1,5 +1,5 @@
 <template>
-    <div class="my-component">
+    <div class="my-component06">
         <!-- 内联事件处理器 -->
         <button @click="count++">{{ count }}</button>
         <hr>

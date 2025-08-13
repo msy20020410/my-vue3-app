@@ -8,6 +8,7 @@ import MyComponent05 from './components/MyComponent05.vue'
 import MyComponent06 from './components/MyComponent06.vue'
 import MyComponent07 from './components/MyComponent07.vue'
 import MyComponent08 from './components/MyComponent08.vue'
+import MyComponent09 from './components/MyComponent09.vue'
 
 </script>
 
@@ -34,7 +35,10 @@ import MyComponent08 from './components/MyComponent08.vue'
   <!-- <MyComponent07 /> -->
 
   <!-- 8.侦听器 -->
-  <MyComponent08 />
+  <!-- <MyComponent08 /> -->
+
+  <!-- 9.模板引用 -->
+  <MyComponent09 />
 
 </template>
 

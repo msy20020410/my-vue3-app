@@ -1,5 +1,5 @@
 <template>
-    <div class="my-component">
+    <div class="my-component08">
         <!-- 创建用户输入 -->
         <input type="text" v-model="input" placeholder="请输入内容" />
         <hr>
