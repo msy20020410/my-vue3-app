@@ -12,6 +12,8 @@ import MyComponent09 from './components/basis/MyComponent09.vue'
 import MyComponent10 from './components/basis/MyComponent10.vue'
 import MyComponent11 from './components/basis/MyComponent11.vue'
 import MyComponent12 from './components/deep_component/MyComponent12.vue'
+import MyComponent13 from './components/deep_component/MyComponent13.vue'
+import Father from './components/deep_component/Father.vue'
 
 </script>
 
@@ -53,7 +55,12 @@ import MyComponent12 from './components/deep_component/MyComponent12.vue'
 
   <!-- --------------------------------------------------深入组件---------------------------------------------------- -->
   <!-- 12.props -->
-  <MyComponent12 name="John" :age="30" />
+  <!-- <MyComponent12 name="John" :age="30" /> -->
+
+  <!-- 13.事件 -->
+  <Father />
+
+
 
 </template>
 
