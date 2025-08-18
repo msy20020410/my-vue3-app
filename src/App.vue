@@ -13,7 +13,9 @@ import MyComponent10 from './components/basis/MyComponent10.vue'
 import MyComponent11 from './components/basis/MyComponent11.vue'
 import MyComponent12 from './components/deep_component/MyComponent12.vue'
 import MyComponent13 from './components/deep_component/MyComponent13.vue'
-import Father from './components/deep_component/Father.vue'
+import Father from './components/deep_component/Father13.vue'
+import Father13 from './components/deep_component/Father13.vue'
+import Father14 from './components/deep_component/Father14.vue'
 
 </script>
 
@@ -58,9 +60,10 @@ import Father from './components/deep_component/Father.vue'
   <!-- <MyComponent12 name="John" :age="30" /> -->
 
   <!-- 13.事件 -->
-  <Father />
+  <!-- <Father13 /> -->
 
-
+  <!-- 14.v-model -->
+  <Father14 />
 
 </template>
 
