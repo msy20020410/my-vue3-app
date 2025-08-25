@@ -19,6 +19,7 @@ import Father14 from './components/deep_component/Father14.vue'
 import MyComponent15 from './components/deep_component/MyComponent15.vue'
 import Father15 from './components/deep_component/Father15.vue'
 import Father16 from './components/deep_component/Father16.vue'
+import Father17 from './components/deep_component/Father17.vue'
 
 
 </script>
@@ -73,7 +74,11 @@ import Father16 from './components/deep_component/Father16.vue'
   <!-- <Father15 /> -->
 
   <!-- 16.双向绑定 -->
-  <Father16 />
+  <!-- <Father16 /> -->
+
+
+  <!-- 17.插槽 -->
+  <Father17 />
 
 </template>
 
