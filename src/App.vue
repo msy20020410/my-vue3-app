@@ -16,6 +16,10 @@ import MyComponent13 from './components/deep_component/MyComponent13.vue'
 import Father from './components/deep_component/Father13.vue'
 import Father13 from './components/deep_component/Father13.vue'
 import Father14 from './components/deep_component/Father14.vue'
+import MyComponent15 from './components/deep_component/MyComponent15.vue'
+import Father15 from './components/deep_component/Father15.vue'
+import Father16 from './components/deep_component/Father16.vue'
+
 
 </script>
 
@@ -63,7 +67,13 @@ import Father14 from './components/deep_component/Father14.vue'
   <!-- <Father13 /> -->
 
   <!-- 14.v-model -->
-  <Father14 />
+  <!-- <Father14 /> -->
+
+  <!-- 15.事件 -->
+  <!-- <Father15 /> -->
+
+  <!-- 16.双向绑定 -->
+  <Father16 />
 
 </template>
 
